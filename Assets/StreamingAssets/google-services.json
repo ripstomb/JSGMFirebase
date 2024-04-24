@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "746114151256",
+    "firebase_url": "https://fir-spaceshooter-default-rtdb.firebaseio.com",
+    "project_id": "fir-spaceshooter",
+    "storage_bucket": "fir-spaceshooter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746114151256:android:5961fd9d451c8ab977eb2d",
+        "android_client_info": {
+          "package_name": "com.upb.spaceshooter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75yYKCIe7Socd37yj_N6eEb-dFUtVR4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
