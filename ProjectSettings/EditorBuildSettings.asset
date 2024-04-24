@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GamePlay.unity
     guid: 308edf83338904a4aad0c214c29e7f3f
+  - enabled: 1
+    path: Assets/Scenes/RestorePassword.unity
+    guid: fe8e3bacfd222be42badd4571d2220d8
   m_configObjects: {}

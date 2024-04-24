@@ -22,4 +22,12 @@ public class ChangeScene : MonoBehaviour
     {
         SceneManager.LoadScene("GamePlay");
     }
+    public void ANewContrasenha()
+    {
+        SceneManager.LoadScene("RestorePassword");
+    }
+    public void AHome()
+    {
+        SceneManager.LoadScene("Home");
+    }
 }
