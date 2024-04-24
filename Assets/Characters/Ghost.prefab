@@ -104,7 +104,7 @@ MonoBehaviour:
   tiempoInmovil: 2
   balaPrefab: {fileID: 9003890356261200052, guid: 927f7759208eb3d4fbf0b8d578eaa689, type: 3}
   puntoDisparo: {fileID: 8316197468716656916}
-  tiempoEntreDisparos: 3
+  tiempoEntreDisparos: 5
 --- !u!61 &-4132653849139683935
 BoxCollider2D:
   m_ObjectHideFlags: 0
