@@ -30,4 +30,8 @@ public class ChangeScene : MonoBehaviour
     {
         SceneManager.LoadScene("Home");
     }
+    public void AFriends()
+    {
+        SceneManager.LoadScene("Friends");
+    }
 }
